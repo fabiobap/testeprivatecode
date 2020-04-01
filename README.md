@@ -2,7 +2,7 @@
 código do teste da privatecode
 
 ## Como instalar
-O website foi feito com laravel 7.x
+O website foi feito com laravel 7.x e php 7.3
 
 1. git clone https://github.com/fabiobap/testeprivatecode.git
 1. composer install
